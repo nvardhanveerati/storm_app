@@ -1,0 +1,4 @@
+3
+select max 1950 damage_property insertion
+select min 1950 damage_property insertion
+select 10 all damage_property insertion

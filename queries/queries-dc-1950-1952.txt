@@ -1,0 +1,5 @@
+3
+select max 1950 damage_crops insertion
+select min 1952 damage_crops insertion
+select max all damage_crops insertion
+select 10 1951 damage_crops insertion

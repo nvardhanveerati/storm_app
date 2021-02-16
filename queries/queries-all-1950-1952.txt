@@ -1,0 +1,9 @@
+8
+select max 1950 damage_property insertion
+select max 1950 damage_crops insertion
+select min 1950 damage_property insertion
+select min 1950 damage_crops insertion
+select max all damage_property insertion
+select min all damage_crops insertion
+select 145 1952 damage_property insertion
+select 10 1952 damage_crops insertion
